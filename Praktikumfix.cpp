@@ -2,12 +2,6 @@
 #include <string>
 using namespace std;
 
-/**
- * Dos Hansel Sihombing
- * 235150301111001
- * TEKKOM A
-*/
-
 int main() {
     system("cls");
     string username, password;
