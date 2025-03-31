@@ -1,3 +1,6 @@
+<p align="center">
+	<img src="1743443130227.jpeg">
+</p>
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/dos-hansel-sihombing-716a77321">
