@@ -1,5 +1,27 @@
 👋 Hi Everyone, I’m Dos Hansel, a Human who Enthusiast in Robotics, Computer Vision, and Embedded System.
 
+<p align="center">
+	<a href="www.linkedin.com/in/dos-hansel-sihombing-716a77321">
+		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+	</a>
+    <a href="mailto:doshansel3@gmail.com">
+		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+	</a>
+    <a href="https://www.instagram.com/don_hansel_dosson?igsh=MTdpc3J3MHU2Mzk0YQ==)">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    </a>
+</p>
+
+## 👨🏻‍💻 &nbsp;About Me:
+
+![Visitor Count](https://komarev.com/ghpvc/?username=your-username&color=blue)
+
+<p>👋 &nbsp;Hi there! I'm Kukuh, passionate in Machine Learning, Data Engineering, Embedded Systems, and Robotics.</p>
+<p>🔍 &nbsp;I'm actively seeking roles as a AI Engineer, Data Engineer, and Embedded Systems and Robotics Engineer.</p>
+<p>🚀 &nbsp;My technical skillset includes  C++, Python, and more, and I'm passionate about using these tools to solve complex problems in the industry.</p>
+<p>📄 &nbsp;Please check out my <a href="https://drive.google.com/drive/folders/1CGmtU9e9OTdiDHOwOaFtQsjA-DGRxmI8?usp=drive_link">Certifications</a> for more information about my experience and skills.</p>
+<p>🤝 &nbsp;I'm always open to new opportunities and collaborations, so feel free to reach out to me!</p>
+
 <!---
 Vannobble/Vannobble is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
