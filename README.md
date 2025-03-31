@@ -1,7 +1,7 @@
 👋 Hi Everyone, I’m Dos Hansel, a Human who Enthusiast in Robotics, Computer Vision, and Embedded System.
 
 <p align="center">
-	<a href="www.linkedin.com/in/dos-hansel-sihombing-716a77321">
+	<a href="https://www.linkedin.com/in/dos-hansel-sihombing-716a77321">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
     <a href="mailto:doshansel3@gmail.com">
