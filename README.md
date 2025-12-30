@@ -22,7 +22,7 @@
 <p>👋 &nbsp;Hi there! I'm Dos, passionate about Computer Vision, Machine Learning, Teaching, and Robotics.</p>
 <p>🔍 &nbsp;I'm actively seeking roles as a AI Engineer, and Embedded Systems and Robotics Engineer.</p>
 <p>🚀 &nbsp; I have a strong technical background in C++, Python, and more, and I love tackling complex challenges with innovative solutions.</p>
-<p>📲 &nbsp;Check out my <a href="https://vannobble.vercel.app/">Web Portofolio</a> </p>
+<p>📲 &nbsp;Check out my <a href="https://vannobble.vercel.app/">Web Portofolio</a> to see full of my profile </p>
 <p>📄 &nbsp;Check out my <a href="https://drive.google.com/file/d/1PFbIO36ZaR_5ya_-_tuf614gurvkAR51/view?usp=sharing">Resume</a> and <a href="https://drive.google.com/drive/folders/1CGmtU9e9OTdiDHOwOaFtQsjA-DGRxmI8?usp=drive_link">Certifications</a> to learn more about my expertise and achievements.</p>
 <p>🤝 &nbsp;Always open to new opportunities and collaborations—feel free to connect!</p>
 
